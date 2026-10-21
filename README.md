@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📞 NumLookup
+# 📞 PhoneIntel
 
 **Phone number metadata lookup — country, carrier, type & timezone**
 
