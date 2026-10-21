@@ -50,7 +50,7 @@ working capabilities — not because of a policy choice.
 ### Termux
 ```bash
 pkg update && pkg install python git -y
-git clone https://github.com/<your-username>/numlookup.git
+git clone https://github.com/krishnadipchoudhury/phoneintel
 cd numlookup
 pip install -r requirements.txt
 python numlookup.py
